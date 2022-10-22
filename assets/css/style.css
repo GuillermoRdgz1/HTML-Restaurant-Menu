@@ -87,4 +87,5 @@ th {
 
 .nobull {
   list-style-type: none;
+  text-align: center;
  }
